@@ -4,3 +4,5 @@ The dataset is designed to detect intrusions into the IoT network environment. [
 - EDA
 - PREPROCESSING
 - MODEL
+
+ ![PCA](newplot.png "Ploty generated PCA Demonstration")
